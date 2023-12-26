@@ -1,6 +1,7 @@
-# My Angular Learning Journey
+<img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular Logo" width="100" height="100">
 
-![Angular Logo](https://angular.io/assets/images/logos/angular/angular.png)
+## My Angular Learning Journey
+
 
 This repository is dedicated to my learning and practice with the Angular framework. Here, I will document my progress, projects, and share useful resources.
 
@@ -12,7 +13,7 @@ This repository is dedicated to my learning and practice with the Angular framew
 
 2. **Learnings:**
    - [Basic Angular Concepts](./learnings/basic-concepts.md)
-   - [Components and Directives](./learnings/components-directives.md)
+   - [Components and Directives](./learnings/components)
    - [Services and Dependency Injection](./learnings/services.md)
 
 3. **Useful Resources:**
