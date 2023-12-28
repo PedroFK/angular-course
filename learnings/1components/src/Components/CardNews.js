@@ -47,6 +47,7 @@ class Cardnews extends HTMLElement {
     style.textContent = `
         .card {
           width: 80%;
+          margin-top: 20px;
           box-shadow: 9px 9px 27px 0px rgba(0, 0, 0, 0.75);
           -webkit-box-shadow: 9px 9px 27px 0px rgba(0, 0, 0, 0.75);
           -moz-box-shadow: 9px 9px 27px 0px rgba(0, 0, 0, 0.75);
