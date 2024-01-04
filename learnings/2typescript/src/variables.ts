@@ -36,3 +36,27 @@ let meuProduto: ProdutoLoja = {
   unidades: 5,
 };
 
+/**
+ * arrays
+ */
+
+let dados: string[] = ["felipe", "ana", "adriana"];
+let dados2: Array<string> = ["felipe", "ana", "adriana"];
+
+let infos: (string | number)[] = [322, "felipe"];
+
+/**
+ * Tuplas
+ */
+let boleto: [string, number, number] = ["agua conta", 199.9, 32342342];
+
+/**
+ * arrays métodos (são os mesmos do Javascript)
+ */
+dados.pop();
+
+/**
+ * Datas
+ */
+let aniversario: Date = new Date("2022-12-01 05:00");
+console.log(aniversario.toString());
